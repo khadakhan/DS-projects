@@ -1,2 +1,2 @@
-# DS-cours
-notebooks from my DS course
+# data sciense projects
+ Here you will find notebooks with my DS projects:
